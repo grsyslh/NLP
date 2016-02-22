@@ -4,7 +4,7 @@
 ###Proje hakkında slayta ulaşmak için (Project Online Slides) :  [Slayt-prezi](https://prezi.com/_s4nirxrn7c5/metin-normalizasyonu/)
 
 ### Gerekenler (Requirements):
-- Python0
+- Python
 - Java
 - NLP
 
