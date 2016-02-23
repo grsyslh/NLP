@@ -9,11 +9,12 @@
 
 ### Çalıştırmak için (RUN): 
 
-### Proje Adımları (STEPS): -Verilerin tespiti ve kullanıcı hatalarının belirlenmesi
-                            -Tokenizasyon yapımı
-                            -Kullanıcı hatalarının düzeltilmesi[ekstra boşluklar,yanlış harfler]
-                            -duygu ifadeleri-noktalama işaretleri-web sitelerini ayırt etmek
-                            -İndirilebilir ve kullanılabilir bir paket oluşturmak
+### Proje Adımları (STEPS):
+- Verilerin tespiti ve kullanıcı hatalarının belirlenmesi
+- Tokenizasyon yapımı
+- Kullanıcı hatalarının düzeltilmesi[ekstra boşluklar,yanlış harfler]
+- Duygu ifadeleri-noktalama işaretleri-web sitelerini ayırt etmek
+- İndirilebilir ve kullanılabilir bir paket oluşturmak
 
 
 
