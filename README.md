@@ -4,8 +4,9 @@
 ###Proje hakkında slayta ulaşmak için (Project Online Slides) :  [Slayt-prezi](https://prezi.com/_s4nirxrn7c5/metin-normalizasyonu/)
 
 ### Gerekenler (Requirements):
-- Python 2.8
-- NLT
+- Java 8
+- Zemberek NLP Kütüphanesi
+
 ### Çalıştırmak için (RUN): 
 
 ### Proje Adımları (STEPS):
