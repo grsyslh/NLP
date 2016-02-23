@@ -4,13 +4,16 @@
 ###Proje hakkında slayta ulaşmak için (Project Online Slides) :  [Slayt-prezi](https://prezi.com/_s4nirxrn7c5/metin-normalizasyonu/)
 
 ### Gerekenler (Requirements):
-- Python
-- Java
-- NLP
+- Python 2.8
+- NLTK
 
 ### Çalıştırmak için (RUN): 
 
-### Proje Adımları (STEPS): 
+### Proje Adımları (STEPS): -Verilerin tespiti ve kullanıcı hatalarının belirlenmesi
+                            -Tokenizasyon yapımı
+                            -Kullanıcı hatalarının düzeltilmesi[ekstra boşluklar,yanlış harfler]
+                            -duygu ifadeleri-noktalama işaretleri-web sitelerini ayırt etmek
+                            -İndirilebilir ve kullanılabilir bir paket oluşturmak
 
 
 
