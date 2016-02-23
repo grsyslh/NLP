@@ -5,8 +5,7 @@
 
 ### Gerekenler (Requirements):
 - Python 2.8
-- NLTK
-
+- NLT
 ### Çalıştırmak için (RUN): 
 
 ### Proje Adımları (STEPS):
