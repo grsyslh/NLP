@@ -2,7 +2,7 @@
  Bu projedeki hedefim Türkçe'de özellikle klavye ve dokunmatik cihazlarda kullanıcı hatasıyla oluşan yazılarda ki metin hatalarını düzeltmek.
 ##### The goal of this project is to correct user errors by making the text normalization.
 
-###Proje hakkında slayta ulaşmak için (Project Online Slides) :  [Slayt-prezi](https://prezi.com/_s4nirxrn7c5/metin-normalizasyonu/)
+###Proje hakkında slayta ulaşmak için (Project Online Slides) :  [Slayt-prezi](https://prezi.com/_s4nirxrn7c5/text-normalization/)
 
 ### Gerekenler (Requirements):
 - Java 8
