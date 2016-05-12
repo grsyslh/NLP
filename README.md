@@ -1,7 +1,6 @@
 # FIX IT!
 ## < Natural Language Processing Turkish Text Normalization > Doğal Dil İşleme Türkçe Metin Normalizasyonu Projesi
- Bu projedeki hedefim Türkçe'de özellikle klavye ve dokunmatik cihazlarda kullanıcı hatasıyla oluşan yazılarda ki metin hatalarını düzeltmek.
-##### The goal of this project is to correct user errors by making the text normalization.
+ Bu projedeki hedefim Türkçe'de özellikle klavye ve dokunmatik cihazlarda kullanıcı hatasıyla oluşan yazılarda ki metin hatalarını düzeltmek. (The goal of this project is to correct user errors by making the text normalization.)
 
 ###Proje hakkında slayta ulaşmak için (Project Online Slides) :  [Slayt-prezi](https://prezi.com/tg-2_o5wanfd/copy-of-text-normalization/)
 
@@ -22,4 +21,6 @@
 - Copy path of text file(formatted .txt) file which is transform unnormalize to normalized.
 - Press enter and the program will be do text normalize.
 
+### Questions and Suggestions
+> You can contact me via e-mail: "grsyslh@gmail.com"
 
